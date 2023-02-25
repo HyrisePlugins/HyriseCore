@@ -1,0 +1,6 @@
+author: Saymon
+name: hCommons
+version: 1.9
+depend: [ProtocolLib, PlaceholderAPI]
+
+main: hyrise.sa.Core

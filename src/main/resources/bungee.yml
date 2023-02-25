@@ -1,0 +1,5 @@
+author: Saymon
+name: hCommons
+version: 1.9
+
+main: hyrise.sa.bungee.Bungee
